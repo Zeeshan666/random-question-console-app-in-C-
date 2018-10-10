@@ -1,0 +1,5 @@
+d:\_data\documents\visual studio 2013\Projects\random question\random question\bin\Debug\random question.exe.config
+d:\_data\documents\visual studio 2013\Projects\random question\random question\bin\Debug\random question.exe
+d:\_data\documents\visual studio 2013\Projects\random question\random question\bin\Debug\random question.pdb
+d:\_data\documents\visual studio 2013\Projects\random question\random question\obj\Debug\random question.exe
+d:\_data\documents\visual studio 2013\Projects\random question\random question\obj\Debug\random question.pdb
